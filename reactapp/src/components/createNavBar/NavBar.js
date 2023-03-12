@@ -16,9 +16,7 @@ function BasicExample() {
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item>
-              <h1>0</h1>
-              <button>Sumar</button>
-              <button>Restar</button>
+              
               </NavDropdown.Item>
               <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
               <NavDropdown.Divider />

@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App" >
       <BasicExample/>
-      <Counter/>
+      <Counter title="contador" initial={1} stock={30} />
       <ItemListContainer greeting={"Bienvenido a la primera preentrega"}/>
     </div>
   );
